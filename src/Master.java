@@ -7,7 +7,7 @@ public class Master {
 
         System.out.println("b2");
         System.out.println("b2_2");
-        
+
         System.out.println("master");
 
     }
