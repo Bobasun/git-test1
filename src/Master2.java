@@ -4,6 +4,7 @@ public class Master2 {
         System.out.println("4");
         int i = myFunction(1, "Hey");
         System.out.println(i);
+        System.out.println("master2");
     }
 
     private static int myFunction(int i, String hey) {
