@@ -9,6 +9,7 @@ public class Master2 {
     private static int myFunction(int i, String hey) {
         System.out.println(hey);
         System.out.println("ss");
+        System.out.println(i);
         return  i;
     }
 }
